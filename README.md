@@ -11,6 +11,7 @@ Este repositório contém um exemplo simples para criar e ler um fluxo alternati
 ## Sobre o script `Set-ADS.ps1`
 
 O script cria um fluxo alternativo chamado `oculto` dentro do arquivo `arquivo.txt` e escreve o texto `"Fluxo oculto"` nele.
+Observe que o arquivo parecera vazio a principio, porem usando o codigo abaixo você podera ver o que esta oculto.
 
 ### Comandos usados
 
